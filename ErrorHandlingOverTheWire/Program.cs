@@ -2,6 +2,8 @@
 using ErrorHandling;
 using System.Net;
 using System.IO;
+using System.Runtime.ExceptionServices;
+using System.Security.Cryptography.X509Certificates;
 
 namespace ErrorHandlingOverTheWire
 {
@@ -33,11 +35,39 @@ namespace ErrorHandlingOverTheWire
             catch (WebException ex)
             {
 
-                Console.WriteLine(ex.Status);
-                Console.WriteLine(ex.Message);
+                // Console.WriteLine(ex.Status);
+                // Console.WriteLine(ex.Message);
+                ProcessException(ex);
             }
 
-           
+            void ProcessException(WebException exception)
+            {
+                switch (exception.Status)
+                {
+                    case WebExceptionStatus.ConnectFailure:
+                    case WebExceptionStatus.ConnectionClosed:
+                    case WebExceptionStatus.RequestCanceled:
+                    case WebExceptionStatus.PipelineFailure:
+                    case WebExceptionStatus.SendFailure:
+                    case WebExceptionStatus.KeepAliveFailure:
+                    case WebExceptionStatus.Timeout:
+                         Console.WriteLine("We should retry connection attempts");
+                         break;
+                    case WebExceptionStatus.NameResolutionFailure:
+                    case WebExceptionStatus.ProxyNameResolutionFailure:
+                    case WebExceptionStatus.ServerProtocolViolation:
+                    case WebExceptionStatus.ProtocolError:
+                         Console.WriteLine("Prevent further attempts and notify consumers to check URL configurations");
+                         break;
+                    case WebExceptionStatus.SecureChannelFailure:
+                    case WebExceptionStatus.TrustFailure: 
+                         Console.WriteLine("Authentication or security issue. Prompt for credentials and perhaps try again");
+                         break;
+                    default: 
+                         Console.WriteLine("We don't know how to handle this. We should postthe error message and terminate our current workflow.");
+                         break;
+                }
+            }
         }
     }    
 }
