@@ -1,0 +1,15 @@
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingWithPolly\bin\Debug\netcoreapp3.1\ErrorHandlingWithPolly.exe
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingWithPolly\obj\Debug\netcoreapp3.1\ErrorHandlingWithPolly.AssemblyInfoInputs.cache
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingWithPolly\obj\Debug\netcoreapp3.1\ErrorHandlingWithPolly.AssemblyInfo.cs
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingWithPolly\obj\Debug\netcoreapp3.1\ErrorHandlingWithPolly.csprojAssemblyReference.cache
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingWithPolly\bin\Debug\netcoreapp3.1\ErrorHandlingWithPolly.deps.json
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingWithPolly\bin\Debug\netcoreapp3.1\ErrorHandlingWithPolly.runtimeconfig.json
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingWithPolly\bin\Debug\netcoreapp3.1\ErrorHandlingWithPolly.runtimeconfig.dev.json
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingWithPolly\bin\Debug\netcoreapp3.1\ErrorHandlingWithPolly.dll
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingWithPolly\bin\Debug\netcoreapp3.1\ErrorHandlingWithPolly.pdb
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingWithPolly\bin\Debug\netcoreapp3.1\Polly.dll
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingWithPolly\obj\Debug\netcoreapp3.1\ErrorHandlingWithPolly.csproj.CoreCompileInputs.cache
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingWithPolly\obj\Debug\netcoreapp3.1\ErrorHandlingWithPolly.csproj.CopyComplete
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingWithPolly\obj\Debug\netcoreapp3.1\ErrorHandlingWithPolly.dll
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingWithPolly\obj\Debug\netcoreapp3.1\ErrorHandlingWithPolly.pdb
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingWithPolly\obj\Debug\netcoreapp3.1\ErrorHandlingWithPolly.genruntimeconfig.cache
