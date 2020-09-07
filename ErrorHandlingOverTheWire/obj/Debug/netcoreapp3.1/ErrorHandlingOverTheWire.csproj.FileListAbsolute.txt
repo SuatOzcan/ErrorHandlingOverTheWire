@@ -1,7 +1,6 @@
 D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingOverTheWire\obj\Debug\netcoreapp3.1\ErrorHandlingOverTheWire.csprojAssemblyReference.cache
 D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingOverTheWire\obj\Debug\netcoreapp3.1\ErrorHandlingOverTheWire.AssemblyInfoInputs.cache
 D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingOverTheWire\obj\Debug\netcoreapp3.1\ErrorHandlingOverTheWire.AssemblyInfo.cs
-D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingOverTheWire\obj\Debug\netcoreapp3.1\ErrorHandlingOverTheWire.csproj.CoreCompileInputs.cache
 D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingOverTheWire\bin\Debug\netcoreapp3.1\ErrorHandlingOverTheWire.exe
 D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingOverTheWire\bin\Debug\netcoreapp3.1\ErrorHandlingOverTheWire.deps.json
 D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingOverTheWire\bin\Debug\netcoreapp3.1\ErrorHandlingOverTheWire.runtimeconfig.json
@@ -11,3 +10,6 @@ D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingOverTheWire\bin\Debug\netco
 D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingOverTheWire\obj\Debug\netcoreapp3.1\ErrorHandlingOverTheWire.dll
 D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingOverTheWire\obj\Debug\netcoreapp3.1\ErrorHandlingOverTheWire.pdb
 D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingOverTheWire\obj\Debug\netcoreapp3.1\ErrorHandlingOverTheWire.genruntimeconfig.cache
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingOverTheWire\bin\Debug\netcoreapp3.1\Polly.dll
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingOverTheWire\obj\Debug\netcoreapp3.1\ErrorHandlingOverTheWire.csproj.CoreCompileInputs.cache
+D:\C#Projeleri\ErrorHandlingOverTheWire\ErrorHandlingOverTheWire\obj\Debug\netcoreapp3.1\ErrorHandlingOverTheWire.csproj.CopyComplete
