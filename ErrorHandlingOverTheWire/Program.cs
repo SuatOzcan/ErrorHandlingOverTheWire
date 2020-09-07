@@ -9,6 +9,7 @@ namespace ErrorHandlingOverTheWire
     {
          static async System.Threading.Tasks.Task Main(string[] args)
           {
+             // PollyDemo.ExecuteRemoteLookupWithPolly();
 
               ResultObject result = new ResultObject();
               WebRequest request = WebRequest.Create("http://test-domain.com");

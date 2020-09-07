@@ -6,9 +6,9 @@ using System.Net;
 using System.Net.Http;
 using System.Runtime.CompilerServices;
 
-namespace ErrorHandlingWithPolly
+namespace ErrorHandlingOverTheWire
 {
-    class Program
+    class PollyDemo
     {
 
         private static List<WebExceptionStatus> connectionFailure = new List<WebExceptionStatus>() {
@@ -97,7 +97,7 @@ namespace ErrorHandlingWithPolly
                     Console.WriteLine("We should expect to see a broken circuit.");
                 }
             }
-        }         
+        }
     }
 }
 

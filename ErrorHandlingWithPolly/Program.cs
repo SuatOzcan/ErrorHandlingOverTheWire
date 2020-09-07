@@ -6,7 +6,7 @@ using System.Net;
 using System.Net.Http;
 using System.Runtime.CompilerServices;
 
-namespace ErrorHandlingWithPolly
+namespace ErrorHandlingOverTheWire
 {
     class Program
     {
