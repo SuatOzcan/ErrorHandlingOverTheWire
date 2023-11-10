@@ -1,3 +1,3 @@
 # ErrorHandlingOverTheWire
 
-Handles possible Web Exceptions likely occur in our projects.
+Handles possible Web Exceptions likely to occur in our projects.
